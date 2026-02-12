@@ -1,4 +1,4 @@
-# Reverse-DNS---PTR-Automation
+# Reverse DNS - PTR Automation
 
 ## How to use:
 
